@@ -125,19 +125,19 @@ curl -X DELETE http://localhost:3000/user/delete/1
 
 #### Creación de Post
 
-(Agrega aquí el endpoint correspondiente cuando esté implementado)
+Pendiente
 
 #### Lectura de Posts
 
-(Agrega aquí el endpoint correspondiente cuando esté implementado)
+Pendiente
 
 #### Actualización de Post por ID
 
-(Agrega aquí el endpoint correspondiente cuando esté implementado)
+Pendiente
 
 #### Eliminación de Post
 
-(Agrega aquí el endpoint correspondiente cuando esté implementado)
+Pendiente
 
 ---
 
